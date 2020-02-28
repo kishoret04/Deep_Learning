@@ -1,4 +1,4 @@
-#HW2
+# HW2
 
 Single Layer MLP and the learning of ECG Heart rythms and the three different classes they fall in. 
 
