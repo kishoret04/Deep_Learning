@@ -1,0 +1,1 @@
+In this project, we are using TensorFlow for deep analysis into a data set that describes different heart arrhythmias. We will use a Multi-Layer Perceptron (MLP) network to explore the dataset and properly classify the type of arrhythmia based on the features. After optimizing the parameters for the deep learning, we will look into the hidden layer and the neuron activity. 
